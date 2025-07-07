@@ -12,7 +12,6 @@ This repository contains two simple Python scripts for educational purposes:
 
 This project is strictly for **educational and ethical use only**.  
 Do **NOT** use these scripts to monitor or capture input from anyone without explicit permission.  
-Unauthorized use may be illegal and unethical, and you assume full responsibility for any misuse.
 
 ---
 
